@@ -53,9 +53,11 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ## Screenshot hasil
 
 Soal 1
+
 ![tugas3soal1](https://user-images.githubusercontent.com/49512967/66478343-63c73500-eac4-11e9-82cc-133eb4846a48.jpg)
 
 Soal 2
+
 ![tugas3soal2](https://user-images.githubusercontent.com/49512967/66478344-645fcb80-eac4-11e9-89c8-65e8a748d094.jpg)
 ## Upload
 upload seluruh folder project java-nya ke repository ini
