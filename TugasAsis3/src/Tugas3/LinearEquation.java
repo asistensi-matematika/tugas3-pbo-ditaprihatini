@@ -103,10 +103,16 @@ public class LinearEquation {
         if((a*d)-(b*c) != 0){
             double x = NilaiX();
             double y = NilaiY();
+            System.out.println("\nOutput \t: \nSistem Persamaannya : ");
+            System.out.println(a+"x + "+b+"y = "+e+"\n"+c+"x + "+d+"y = "+f);
+            System.out.println("\nHasilnya : ");
             System.out.println("x = "+x+" , y = "+y);
             return true;
         }
         else{
+            System.out.println("\nOutpput \t: \nSistem Persamaannya : ");
+            System.out.println(a+"x + "+b+"y = "+e+"\n"+c+"x + "+d+"y = "+f);
+            System.out.println("\nHasilnya : ");
             System.out.println("Sistem tidak memiliki penyelesaian.");
             return false;
         }

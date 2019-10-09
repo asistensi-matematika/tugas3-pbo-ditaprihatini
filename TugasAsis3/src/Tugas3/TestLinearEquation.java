@@ -32,9 +32,6 @@ public class TestLinearEquation {
         dita2.setE(e);
         double f = dita.nextDouble();
         dita2.setF(f);
-        System.out.println("\nOutput \t: \nSistem Persamaannya : ");
-        System.out.println(a+"x + "+b+"y = "+e+"\n"+c+"x + "+d+"y = "+f);
-        System.out.println("\nHasilnya : ");
         dita2.cekSolusi();
     }
     
