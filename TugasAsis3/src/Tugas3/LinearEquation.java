@@ -87,7 +87,7 @@ public class LinearEquation {
         double NilaiX, DeterminanX, DeterminanAll;
         DeterminanX = ((e*d)-(f*b));
         DeterminanAll = ((a*d)-(b*c));
-        NilaiX = Math.floor((DeterminanX/DeterminanAll)*100)/100;
+        NilaiX = Math.ceil((DeterminanX/DeterminanAll)*100)/100;
         return NilaiX;
     }
     
@@ -95,7 +95,7 @@ public class LinearEquation {
         double NilaiY, DeterminanY, DeterminanAll;
         DeterminanY = ((a*f)-(c*e));
         DeterminanAll = ((a*d)-(b*c));
-        NilaiY = Math.floor((DeterminanY/DeterminanAll)*100)/100;
+        NilaiY = Math.ceil((DeterminanY/DeterminanAll)*100)/100;
         return NilaiY;
     }
     

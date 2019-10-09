@@ -54,10 +54,11 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 
 Soal 1
 
-![tugas3soal1fix](https://user-images.githubusercontent.com/49512967/66479490-d0dbca00-eac6-11e9-930c-a9d90365180a.jpg)
+![tugas3soal1](https://user-images.githubusercontent.com/49512967/66480442-e94ce400-eac8-11e9-96f9-0180e0b1200e.jpg)
+
 
 Soal 2
 
-![tugas3soal2fix](https://user-images.githubusercontent.com/49512967/66479491-d0dbca00-eac6-11e9-93fa-2933aafc38e1.jpg)
+![tugas3soal2](https://user-images.githubusercontent.com/49512967/66480443-e9e57a80-eac8-11e9-9281-0b408b489e2f.jpg)
 ## Upload
 upload seluruh folder project java-nya ke repository ini
